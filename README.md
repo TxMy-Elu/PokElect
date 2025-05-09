@@ -22,7 +22,7 @@ Une application Electron moderne qui permet d'explorer les données des Pokémon
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/votre-nom/pokedex-explorer.git
+git clone https://github.com/TxMy-Elu/PokElect.git
 
 # Accéder au répertoire du projet
 cd pokedex-explorer
